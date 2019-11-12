@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Edu5", "Edu5\", "{7D45B675-2650-47E1-9C19-A95F4A9422EC}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_56338"
+		Debug.AspNetCompiler.PhysicalPath = "Edu5\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56338\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_56338"
+		Release.AspNetCompiler.PhysicalPath = "Edu5\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56338\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "56338"
+		SlnRelativePath = "Edu5\"
+		DefaultWebSiteLanguage = "Visual Basic"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D45B675-2650-47E1-9C19-A95F4A9422EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D45B675-2650-47E1-9C19-A95F4A9422EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30F3FA7B-746F-42BD-8E36-72399162BF0C}
+	EndGlobalSection
+EndGlobal
